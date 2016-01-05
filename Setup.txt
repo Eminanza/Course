@@ -1,0 +1,13 @@
+git config --global user.name "Eminanza"
+git config --global user.email "michaeltihon@gmail.com"
+
+ssh-keygen -t rsa -b 4096 -C "michaeltihon@gmail.com"
+
+export PS1="\[\e[32m\]\u\[\e[m\]\[\e[32m\]@\[\e[m\]\[\e[32m\]\h\[\e[m\] : \[\e[35;40m\]\w\[\e[m\] "
+
+export PS1="\[\033[38;5;34m\]\u\[$(tput sgr0)\]\[\033[38;5;26m\]@\h\[$(tput sgr0)\]\[\033[38;5;15m\] : \[$(tput sgr0)\]\[\033[38;5;163m\]\W\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]"
+
+git clone git@github.com:Eminanza/front-end-lectures.git`
+
+
+git remote add origin git@github.com:Course
