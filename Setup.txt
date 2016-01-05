@@ -11,3 +11,7 @@ git clone git@github.com:Eminanza/front-end-lectures.git`
 
 
 git remote add origin git@github.com:Course
+
+
+martin [11:05 AM] 
+To have the HTML formattig work, you need to install node - go here https://nodejs.org/en/ and install the LTS version - we'll need it anyway

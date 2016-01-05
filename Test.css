@@ -1,0 +1,12 @@
+body {
+   font-family: Verdana;
+   font-size: 14px;
+}
+
+tr:nth-child(2n) {
+   background-color: #DDDDDD;
+}
+
+ul {
+   background-color: #EEEEEE;
+}
