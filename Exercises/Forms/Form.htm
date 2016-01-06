@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>Nice form</title>
+   <link rel="stylesheet" type="text/css" href="Form.css">
+</head>
+<body>
+
+<form name="frmMain" type="text">
+  <div id="divForm"><label for="gender" class="normal bottom-marged">Gender</label>
+   <input name="gender" type="radio" value="Male">Male
+   <input name="gender" type="radio" value="Female">Female
+   </div>
+   <fieldset>
+   <legend>Name</legend>
+   <div><label for="firstname" class="normal">Firstname</label><input name="firstname" type="text"></div>
+   <div><label for="lastname" class="normal">Lastname</label><input name="lastname" type="text"></div>
+   </fieldset>
+   <fieldset>
+   <legend>Address</legend>
+   <div><label for="streetname" class="normal">Street name</label><input name="streetname" type="text"></div>
+   <div><label for="number" class="normal">Number</label><input name="number" type="number"></div>
+   <div><label for="box" class="normal">Box</label><input name="box" type="text"></div>
+   <div><label for="postcode" class="normal">Postcode</label><input name="postcode" type="text"></div>
+   <div><label for="city" class="normal">City</label><input name="city" type="text"></div>
+   <div><label for="country" class="normal">Country</label><input name="country" type="text"></div>
+   </fieldset>
+   <br>
+   <div><label for="birthdate" class="normal">Birthdate</label><input name="birthdate" type="date"></div>
+   <div><label for="email" class="normal">Email</label><input name="email" type="email"></div>
+   <div><label for="password" class="normal">Password</label><input name="password" type="password"></div>
+   <div style="margin-top:2px;">
+      <label for="comment" class="area">Comment</label><textarea name="comment" cols="50" rows="5"></textarea>
+   </div>
+</form>
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+body {
+   font-family: Tahoma;
+   font-size: 14px;
+}
+
+h1 {
+   color: #11AA66;
+}
+
+.logo {
+   width: 30%;
+}
+
+footer {
+   font-size: 10px;
+}
+
+ul {
+   font-size: 16px;
+   line-height: 22px;
+}
+
+p{
+   font-size: 16px;
+}
+
+a{
+   color: #11AA66;
+}

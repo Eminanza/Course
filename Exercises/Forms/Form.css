@@ -1,0 +1,44 @@
+body {
+   font-family: Verdana;
+}
+
+label {
+   background-color: #EEEEEE;
+}
+
+label.normal {
+   display:inline-block;
+   margin-right: 8px;
+   width:200px;
+   text-align: right;
+}
+
+label.area {
+   display:inline-block; 
+   margin-right: 8px;
+   width:200px;
+   vertical-align: top;
+   text-align: right;
+}
+
+label:after {
+   content: ' :';
+}
+
+textarea {
+   vertical-align: top;
+}
+
+.bottom-marged {
+   margin-bottom: 3px;
+}
+
+fieldset{
+   border-style: solid;
+   border-color:  #CCCCCC;
+   border-width: 1px;
+}
+
+legend{
+   color: #8888FF;
+}

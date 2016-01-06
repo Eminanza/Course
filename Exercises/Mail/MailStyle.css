@@ -1,0 +1,67 @@
+body {
+   font-family: Helvetica;
+   font-size: 14px;
+}
+
+.logo {
+   width: 20%;
+}
+
+thead.mailgrid {
+   background-color: #EEEEEE;
+}
+
+tr.gridtitle
+{
+   font-size: 18px;
+   font-weight: bold;
+}
+
+table.mailgrid {
+   border-spacing: 0;
+   border-collapse: collapse;
+}
+
+
+
+tr.mailgrid {
+   height: 28px;
+}
+
+tr.mailgridhead {
+   height: 28px;
+   font-weight: bold;
+}
+
+td {
+   border-bottom: solid 1px #CCCCCC;
+}
+
+td.subject {
+   color: #888888;
+}
+
+.unread {
+   font-weight: bold;
+   color: #000000;
+}
+
+tr.mailgrid:hover {
+   background-color: #FFFF88;
+}
+
+img {
+   padding-right: 2px;
+   padding-left: 2px;
+}
+
+img.gridimage{
+   width: 16px;
+}
+
+a.titlelink,a.titlelink:hover,a.titlelink:visited{
+   color: #000000;
+   font-size: 18px;
+   font-weight: bold;
+   text-decoration: underline;
+}
