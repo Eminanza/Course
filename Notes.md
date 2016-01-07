@@ -90,6 +90,32 @@ span.funny:before {
 </fieldset>
 ```
 
+###Gradients
+http://www.w3schools.com/css/css3_gradients.asp
+
+###Center elements
+margin: 0 auto;
+
+
+###Default position
+
+```css
+position : static;
+```
+
+
+###Sidebars
+Use aside for sidebars
+
+```css
+position:fixed;
+top:0;
+left : 0;
+bottom :0; /*use whole page height*/
+width:200px;
+```
+
+
 
 ###Style checkboxes
 ```html
