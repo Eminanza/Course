@@ -28,6 +28,9 @@ htpp://docs.emmet.io/cheat-sheet
 https://developer.mozilla.org/en-US/docs/Web/HTML
 http://www.w3schools.com/
 
+###Boostrap doc
+http://www.w3schools.com/bootstrap/
+
 ###Refining CSS on input types
 ```css
 input[type="submit"]
@@ -35,6 +38,17 @@ input[type="submit"]
    
 }
 ```
+
+###Lorem Pixel
+www.lorempixel.com
+
+###Font Awesome
+https://fortawesome.github.io/Font-Awesome/
+
+https://thenounproject.com/
+
+###Good UI ideas
+http://goodui.org/#1
 
 ###Round borders with CSS
 border-radius
