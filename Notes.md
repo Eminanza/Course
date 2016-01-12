@@ -29,7 +29,11 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 http://www.w3schools.com/
 
 ###Boostrap doc
+http://getbootstrap.com/css/
 http://www.w3schools.com/bootstrap/
+
+###Bootstrap templates
+http://startbootstrap.com/template-categories/all/
 
 ###Refining CSS on input types
 ```css
