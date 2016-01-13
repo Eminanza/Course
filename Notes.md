@@ -35,6 +35,9 @@ http://www.w3schools.com/bootstrap/
 ###Bootstrap templates
 http://startbootstrap.com/template-categories/all/
 
+###Bootstrap tutorial
+http://www.toptal.com/front-end/what-is-bootstrap-a-short-tutorial-on-the-what-why-and-how
+
 ###Refining CSS on input types
 ```css
 input[type="submit"]
