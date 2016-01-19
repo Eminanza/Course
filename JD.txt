@@ -1,0 +1,6 @@
+
+
+- Hauteur de coupe, comment retrouver celle par défaut (indicateur tableau de bord ?)
+- Machine de demo au magasin
+- Livraison ?
+- Prix

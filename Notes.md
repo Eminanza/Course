@@ -1,7 +1,19 @@
+git fetch upstream master
+git merge upstream/master
+
+npm install -g jasmine jasmine-spec-reporter
+npm install jasmine jasmine-spec-reporter
+
+node jasmine-runner.js
+
 ###Markdown language
 [Markdown](http://daringfireball.net/projects/markdown/)
 
 In SublimeText, you can also have the full syntax finding Cheat Sheet in packages
+
+###RegExp site
+
+https://regex101.com/
 
 ##Man under bash
 --help
